@@ -1,0 +1,25 @@
+# HORI CO.,LTD. Fighting Stick mini 4 (PlasyStation 4)
+
+#Square
+key 304 BUTTON_X
+#Cross
+key 305 BUTTON_A
+#Circle
+key 306 BUTTON_B
+#Triangle
+key 307 BUTTON_Y
+
+key 308 BUTTON_L1
+key 309 BUTTON_R1
+key 310 BUTTON_L2
+key 311 BUTTON_R2
+
+axis 0x10 HAT_X
+axis 0x11 HAT_Y
+
+#Share
+key 312 BUTTON_SELECT
+#Options
+key 313 BUTTON_START
+#PS
+key 316 BUTTON_MODE
